@@ -134,5 +134,24 @@ img {
 }
 
 @media (max-width: 480px) {
+    .container {
+        width: 480px;
+    }
+    .lessons .col {
+        width: 100%;
+    }
+    .row {
+        flex-wrap: wrap;
+    }
+    .steps .col {
+        width: 100%;
+    }
+    .why-us .col-left {
+        width: 100%;
+    }
+    .why-us .col-right {
+        width: 100%;
+    }
 
 }
+ 
