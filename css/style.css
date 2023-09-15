@@ -142,12 +142,16 @@ img {
     .container {
         max-width: 100%;
     }
-    .lessons .col {
-        width: 100%;
-    }
     .row {
         flex-wrap: wrap;
     }
+    /* .row > .col {
+        width:100%
+    }  SELETTORE-CORREZIONE*/
+    .lessons .col {
+        width: 100%;
+    }
+    
     .steps .col {
         width: 100%;
     }
